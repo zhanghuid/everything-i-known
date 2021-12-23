@@ -5,12 +5,12 @@
 ## 目录
 - 开发环境
   + php
-    * [phpbrew](https://github.com/zhanghuid/everything-i-known/blob/master/php/phpbrew.md)
+    * [phpbrew](https://github.com/zhanghuid/everything-i-known/blob/main/php/phpbrew.md)
   + go
     * [goup](https://github.com/owenthereal/goup)
 
 - PHP 基础学习
-  - ['x' 分钟入门](https://github.com/zhanghuid/everything-i-known/blob/master/php/learn-php-in-x-minutes.md)
+  - ['x' 分钟入门](https://github.com/zhanghuid/everything-i-known/blob/main/php/learn-php-in-x-minutes.md)
   - 框架篇
   - 包管理
   - swoole
@@ -28,6 +28,7 @@
     - [iTerm2](https://iterm2.com/) - :clap::clap:mac 下免费/超强终端
     - [tabby](https://github.com/Eugeny/tabby) - :clap::clap:跨平台/高颜值 终端
     - [hyper](https://github.com/vercel/hyper) - :clap:跨平台/高颜值 终端
+    - [ssh links](https://github.com/zhanghuid/everything-i-known/blob/main/config/terminal.md) - 最优雅的 ssh 连接管理方式
   - 版本控制
     - [SourceTree](https://www.sourcetreeapp.com/) - 免费/跨平台 git 跨平台客户端
     - [Fork](https://git-fork.com/) - 一个快速友好的 Git 客户端
@@ -42,8 +43,8 @@
     - [lx-music](https://github.com/lyswhut/lx-music-desktop) - :clap: 一个基于 electron 的音乐软件
     - [IINA](https://github.com/iina/iina) - :clap: 现代化的视频播放器 for macOS
   - IDE
-    - [Sublime Text](https://github.com/zhanghuid/everything-i-known/blob/master/software/sublime.md) 
-    - [Visual Studio Code](https://github.com/zhanghuid/everything-i-known/blob/master/software/code.md)
+    - [Sublime Text](https://github.com/zhanghuid/everything-i-known/blob/main/software/sublime.md) 
+    - [Visual Studio Code](https://github.com/zhanghuid/everything-i-known/blob/main/software/code.md)
     - JetBrains Toolbox App 
       - [PHPstorm](https://www.jetbrains.com/phpstorm/) - PHPer 最好的 ide，没有之一
       - [GoLand](https://www.jetbrains.com/go/) - Go 的集成开发环境
@@ -75,5 +76,5 @@
     - [Stats](https://github.com/exelban/stats) - 菜单栏系统监视器
 
 ## Thanks To
-- [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md) - mac 下的软件合集，很好，很强大
+- [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/main/README-zh.md) - mac 下的软件合集，很好，很强大
 - [TIGERB 的 easy-tips](https://github.com/TIGERB/easy-tips) - 参考排版
