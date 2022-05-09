@@ -21,7 +21,10 @@
   - 包管理
 
 - 数据库
-  - 10 分钟入门
+  - [x 分钟入门](https://github.com/zhanghuid/everything-i-known/blob/main/mysql/learn-mysql-in-x-minutes.md)
+
+- SHELL
+  - [条件判断](https://github.com/zhanghuid/everything-i-known/blob/main/shell/condition.md)
 
 - 软件
   - 终端篇
