@@ -77,6 +77,8 @@
     - [ClashX](https://github.com/yichengchen/clashX) - :clap: 基于 clash 的一款支持规则过滤的科学上网工具
   - 菜单栏工具
     - [Stats](https://github.com/exelban/stats) - 菜单栏系统监视器
+  - 录屏工具
+    - [Kap](https://github.com/wulkano/Kap) - :clap: 开源的屏幕录制工具
 
 ## Thanks To
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/main/README-zh.md) - mac 下的软件合集，很好，很强大
