@@ -31,7 +31,9 @@
     - [iTerm2](https://iterm2.com/) - :clap::clap:mac 下免费/超强终端
     - [tabby](https://github.com/Eugeny/tabby) - :clap::clap:跨平台/高颜值 终端
     - [hyper](https://github.com/vercel/hyper) - :clap:跨平台/高颜值 终端
-    - [ssh links](https://github.com/zhanghuid/everything-i-known/blob/main/config/terminal.md) - 最优雅的 ssh 连接管理方式
+    - [ssh dsn](https://github.com/zhanghuid/everything-i-known/blob/main/config/terminal.md) - 最优雅的 ssh 连接管理方式
+    - [atuin](https://github.com/atuinsh/atuin) - 神奇的 shell 历史记录
+    - [navi](https://github.com/denisidoro/navi) - 用于命令行的交互式备忘单工具
   - 版本控制
     - [SourceTree](https://www.sourcetreeapp.com/) - 免费/跨平台 git 跨平台客户端
     - [Fork](https://git-fork.com/) - 一个快速友好的 Git 客户端
