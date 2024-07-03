@@ -31,9 +31,10 @@
     - [iTerm2](https://iterm2.com/) - :clap::clap:mac 下免费/超强终端
     - [tabby](https://github.com/Eugeny/tabby) - :clap::clap:跨平台/高颜值 终端
     - [hyper](https://github.com/vercel/hyper) - :clap:跨平台/高颜值 终端
-    - [ssh dsn](https://github.com/zhanghuid/everything-i-known/blob/main/config/terminal.md) - 最优雅的 ssh 连接管理方式
     - [atuin](https://github.com/atuinsh/atuin) - 神奇的 shell 历史记录
     - [navi](https://github.com/denisidoro/navi) - 用于命令行的交互式备忘单工具
+    - [terminal readme](https://github.com/zhanghuid/everything-i-known/blob/main/config/terminal.md) - ssh readme
+
   - 版本控制
     - [SourceTree](https://www.sourcetreeapp.com/) - 免费/跨平台 git 跨平台客户端
     - [Fork](https://git-fork.com/) - 一个快速友好的 Git 客户端
@@ -71,12 +72,13 @@
     - [Motrix](https://motrix.app/) - 一款全能的下载工具
   - 输入法
     - [RIME](https://rime.im/) - ~~中州韻輸入法引擎(不推荐，原生的也挺好的)~~
+    - [微信输入法](https://z.weixin.qq.com/) - 挺好用的
   - 浏览器
     - [Chrome](https://www.google.com/chrome/) - Chrome 浏览器谷歌出品
     - [Firefox](https://www.mozilla.org/zh-CN/firefox/) - 迎接 Firefox Quantum。快，只为更好。火狐浏览器
     - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - 同款谷歌浏览器，微软出品
   - 科学上网
-    - [ClashX](https://github.com/yichengchen/clashX) - :clap: 基于 clash 的一款支持规则过滤的科学上网工具
+    - [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) - :clap: 基于 clash 的一款支持规则过滤的科学上网工具
   - 菜单栏工具
     - [Stats](https://github.com/exelban/stats) - 菜单栏系统监视器
   - 录屏工具
