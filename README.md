@@ -34,6 +34,7 @@
     - [atuin](https://github.com/atuinsh/atuin) - 神奇的 shell 历史记录
     - [navi](https://github.com/denisidoro/navi) - 用于命令行的交互式备忘单工具
     - [terminal readme](https://github.com/zhanghuid/everything-i-known/blob/main/config/terminal.md) - ssh readme
+    - [trzsz-ssh](https://github.com/trzsz/trzsz-ssh) - 管理你的 `ssh config` 配置，[Extra Features](https://github.com/trzsz/trzsz-ssh?tab=readme-ov-file#extra-features)
 
   - 版本控制
     - [SourceTree](https://www.sourcetreeapp.com/) - 免费/跨平台 git 跨平台客户端
@@ -83,6 +84,11 @@
     - [Stats](https://github.com/exelban/stats) - 菜单栏系统监视器
   - 录屏工具
     - [Kap](https://github.com/wulkano/Kap) - :clap: 开源的屏幕录制工具
+
+- 资源
+  - svg
+    - [免费的SVG图标资源](https://svgl.app/)
+    - [favicon-generator](https://favicon.io/favicon-generator/)
 
 ## Thanks To
 - [awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/main/README-zh.md) - mac 下的软件合集，很好，很强大
