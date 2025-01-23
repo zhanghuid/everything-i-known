@@ -46,6 +46,7 @@
     - [uTools](https://u.tools/) - 你的生产力工具集
     - [Snipaste](https://zh.snipaste.com/) - 截图 + 贴图
     - [alfred](https://www.alfredapp.com/) - 效率神器
+    - [alt-tab](https://github.com/lwouis/alt-tab-macos) - :clap: Windows alt-tab on macOS
   - 音频和视频
     - [lx-music](https://github.com/lyswhut/lx-music-desktop) - :clap: 一个基于 electron 的音乐软件
     - [IINA](https://github.com/iina/iina) - :clap: 现代化的视频播放器 for macOS
@@ -80,10 +81,11 @@
     - [Microsoft Edge](https://www.microsoft.com/en-us/edge) - 同款谷歌浏览器，微软出品
   - 科学上网
     - [ClashX.Meta](https://github.com/MetaCubeX/ClashX.Meta) - :clap: 基于 clash 的一款支持规则过滤的科学上网工具
-  - 菜单栏工具
-    - [Stats](https://github.com/exelban/stats) - 菜单栏系统监视器
   - 录屏工具
     - [Kap](https://github.com/wulkano/Kap) - :clap: 开源的屏幕录制工具
+  - 系统工具
+    - [MonitorControl](https://github.com/MonitorControl/MonitorControl) - :clap: 开源的屏幕亮度调节工具
+    - [Stats](https://github.com/exelban/stats) - 菜单栏系统监视器
 
 - 资源
   - svg
